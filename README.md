@@ -1,7 +1,7 @@
 # Support Desk App
-Support ticket application built with the MERN stack (MongoDB, Expressjs, Reactjs, Nodejs).
+Support ticket Web application built with the MERN stack (MongoDB, Expressjs, Reactjs, Nodejs).
 
-# Functionalities
+# Features
 * User registeration/login
 * Creating/Viewing tickets
 * Notes functionality for each ticket
